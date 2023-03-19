@@ -15,9 +15,24 @@ package cuentas;
  */
 public class CCuenta {
 
+	/**
+	 * Variable privada nombre
+	 */
 	private String nombre;
+
+	/**
+	 * Variable privada cuenta
+	 */
 	private String cuenta;
+
+	/**
+	 * Variable privada saldo
+	 */
 	private double saldo;
+
+	/**
+	 * Variable privada tipoInteres
+	 */
 	private double tipoInterés;
 
 	/**
